@@ -1,0 +1,17 @@
+name: hds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - plotly
+  - seaborn
+  - jupyterlab
+  - notebook
+  - scipy
+  - statsmodels
+  - ipykernel
+  - pip
